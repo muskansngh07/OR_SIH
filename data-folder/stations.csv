@@ -1,0 +1,13 @@
+station_name,start_km,end_km,station_entry_speed_kmph
+Gonda-(gd),0,1,110
+Gonda-Kachehari-(gdk),5,6,110
+Maijapur-(mir),17,18,110
+Carnailganj-(clj),28,29,110
+Saryu-(suj),35,36,110
+Jarwal-Road-(jld),45,46,110
+Ghaghraghat-(ght),49,50,110
+Chaukaghat-(ckg),55,56,110
+Budwal-(buw),61,62,110
+Bindaura-(bur),70,71,110
+Jahangirabad-(jbr),80,81,110
+Barabanki-(bbk),88,89,110
